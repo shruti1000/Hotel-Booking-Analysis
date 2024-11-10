@@ -24,7 +24,8 @@ Description: The dataset contains details on bookings from two hotels, including
 ### Analysis and Findings
 
  - Reservation status
-   
+   ![Screenshot (49)](https://github.com/user-attachments/assets/1b8c33ac-97a1-452b-be34-f5678d95a73a)
+
 
 
 
