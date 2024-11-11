@@ -13,7 +13,9 @@ Description: The dataset contains details on bookings from two hotels, including
 
 ### Tools
 
-- Python( Matplotlib, Seaborn)
+- Python
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ### Exploratory Data Analysis
@@ -23,8 +25,22 @@ Description: The dataset contains details on bookings from two hotels, including
 
 ### Analysis and Findings
 
- - Reservation status
+ - ## Reservation status
+   
    ![Screenshot (49)](https://github.com/user-attachments/assets/1b8c33ac-97a1-452b-be34-f5678d95a73a)
+
+ - Approximately 63% of reservations were not canceled
+ - Around 37% of reservations were canceled.
+
+ - ## Rservation status in different hotels
+
+   ![Screenshot (50)](https://github.com/user-attachments/assets/26944b83-6006-41cb-8604-5cf6920dce25)
+
+ - In comparison to resort hotels, city hotels have more bookings. It's possible that resort hotels are more expensive than those in cities.
+
+   
+
+   
 
 
 
