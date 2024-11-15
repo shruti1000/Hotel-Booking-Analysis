@@ -59,7 +59,7 @@ Description: The dataset contains details on bookings from two hotels, including
 
  - ## Top 10 Coutries with Reservation Cancelled
 
-   ![Screenshot (54)](https://github.com/user-attachments/assets/d6ccd0b1-255e-4ef0-9cd2-fc7357ed83d0)
+   ![Screenshot (54)](https://github.com/user-attachments/assets/1143a1bf-90f5-4158-ba14-26ac4984138f)
 
  - Portugal has the highest number of cancellations.
 
